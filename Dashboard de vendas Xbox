@@ -1,0 +1,22 @@
+DESCRIÇÃO
+Aprenda a criar um dashboard de vendas, com foco na organização e visualização de dados. 
+O objetivo é transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e a tomada de decisões baseadas em dados.
+
+Primeiramente devemos saber, afinal, o que é um Dashboard?
+
+Dashboard é um painel personalizado para exibir informações, e com ele podemos ajudar na gestão de dados e decisões. 
+
+Nesse Dashboard foram utilizados os dados da planilha bases para obtermos algumas perguntas de negócio.
+
+O Dashboard responde 6 perguntas de negócio, 4 delas atreladas a uma segmentação de dados definida como "Tipos de assinaturas" e duas atreladas a "Total de Planos por mês".
+
+Na planilha Dashboard, observamos no primeiro momento, 2 big numbers, que respondem o total de vendas do EA PLAY SEASON PASS e o total de vendas do MINECRAFT SEASON PASS.
+Esses dados foram obtidos através de uma tabela dinâmica e convertidos de uma maneira ainda mais intuitiva.
+É possível observar essa variação através do painel à esquerda, fazendo as alterações entre anual, mensal e trimestral.
+
+O primeiro gráfico indica o total de vendas do XBOX GAME PASS, esse gráfico também está vinculado ao  painel de segmentação de dados.
+
+Também foram criados mais dois gráficos, a fim de responder mais duas perguntas de negócio. " Qual foi o número de assinaturas de acordo com o plano escolhido" e " Qual foi o preço e a porcentagem dos cupons por tipo de assinatura".
+Para observar a variação, deve fazer uso do segundo painel de segmentação, que será mostrado os dados dos planos "core", "standard" e "ultimate".
+
+Baixe o arquivo Xlsx e faça as devidas alterações.
