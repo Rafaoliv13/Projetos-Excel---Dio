@@ -1,0 +1,28 @@
+ORGANIZADOR DE IMPOSTO DE RENDA - DIO - SANTANDER
+
+Este projeto tem como objetivo criar uma ferramenta no Excel que ajude a organizar e reunir informações essenciais para a declaração de imposto de renda. 
+A proposta é permitir que o é permitir que o usuário registre suas entradas de maneira eficiente e validada, utilizando recursos como menus de navegação, validações automáticas e links rápidos.
+
+Neste arquivo, o usuário deverá utilizar 3 planilhas. 
+
+A primeira planilha tem o nome de "Titular" onde o usuário deverá inserir os seus dados de acordo com cada campo. 
+Nesta planilha foram utilizados alguns recursos para automatizar a planilha, tais como:
+1 - Validação de dados nos campos  "HOUVE ALTERAÇÕES DA ENTREGA ANTERIOR?","DEPENDENTE CÔNJUGE","RESIDENTE DO EXTERIOR", para que a resposta seja "sim" ou "não"
+2 - Os formatos de "telefone", "CEP", "NASCIMENTO", foram alterados para que seja digitado conforme os padrões.
+
+Na segunda Planilha com o nome de "Informes", o usuário deverá escolher o banco em que possui valores depositados e inserir o total em cada banco. 
+Nesta planilha foi utilizado o recurso de soma automática de cada banco, fazendo uso de uma célula para melhor visualização
+
+Na terceira e última planilha com o nome de "Receitas e despesas", o usuário deverá inserir os seus recebíveis na tabela de receitas e os seus gastos na tabela de despesas.
+Nesta planilha foi utilizado um gráfico para melhor visualização total das receitas e despesas do usuário.
+
+NAVEGAÇÃO E OUTRAS FUNCIONALIDADES
+
+As planilhas possuem alguns recursos que facilitam a navegação, note que o usuário poderá clicar nos botões "TITULAR", "INFORMES", "RECEITAS/DESPESAS", bem como clicar nas setas para ir na planilha desejada.
+A planilha possui um ícone de linkedin onde é redirecionado ao autor do arquivo.
+
+Faça o download desse arquivo e realize suas alterações, conforme desejar.
+
+
+
+
